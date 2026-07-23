@@ -5,7 +5,7 @@ C# / .NET, SQL Server, and a deeply committed relationship with `NULL`.
 
 - I don't write bugs, I write features nobody requested
 - My idea of frontend is a table with more columns
-- Yes I can tell if it's May 3rd or March 5th... no it did not take me 5 minutes
+- Ask me why your date is wrong. It's the format. It's always the format.
 - Tests? I have prod.
 - I flee to Godot when the pricing logic starts winning
 
