@@ -1,4 +1,4 @@
-# Ajay — Ajaya Deep Shrestha
+# Ajaya Deep Shrestha here 
 
 Backend and database developer. Mostly **C# / .NET** — the code that quietly runs a
 business and can't afford to be wrong.
