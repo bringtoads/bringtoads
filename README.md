@@ -1,38 +1,33 @@
-## Hi there 👋
+# Ajay — Ajaya Deep Shrestha
 
-I’m Ajay, a software developer with a strong focus on backend and database-driven applications.
-I primarily work with C# / .NET on business systems, but I also enjoy exploring other areas
-of software development in my own time.
+Backend and database developer. Mostly **C# / .NET** — the code that quietly runs a
+business and can't afford to be wrong.
 
----
+Most of my work lives in the unglamorous middle of an app: the business rules, the
+data imports, the "why is this number off by one" problems. I care more about software
+being **correct** than clever — the kind that's still stable and readable a year after
+everyone's forgotten how it works.
 
-🔭 **I’m currently working on**
-- ASP.NET Core backend features
-- Database-driven business logic
-- Android development using Java and Kotlin
+## What I actually do
+- Backend features in **C# / .NET** and **ASP.NET Core**
+- **SQL Server** + **Entity Framework** — schema, queries, and the messy real-world data behind them
+- Business logic: workflows, pricing, imports — the rules nobody else wants to touch
+- On my own time: **Android** (Java / Kotlin) and game prototyping in **Godot** (GDScript / Lua)
 
-🌱 **I’m currently learning**
-- Better system design across platforms
-- Improving deployment and CI workflows
-- Exploring Godot further using GDScript
+## How I think about code
+- **Correctness first.** A feature that's fast and wrong is just a bug with good marketing.
+- **Boring is a compliment.** Predictable beats clever.
+- **Read the data before trusting the code.** Most "impossible" bugs are one unchecked assumption.
 
-👯 **I’m interested in collaborating on**
-- Backend APIs
-- Admin panels and internal tools
-- Small but well-defined systems where code quality matters
+## Currently
+- Building ASP.NET Core backends and data-driven business logic
+- Getting sharper at system design and deployment / CI
+- Poking at Godot when I want to build something just for me
 
-💬 **Ask me about**
-- C# / .NET and ASP.NET Core
-- SQL Server and Entity Framework
-- Business logic, workflows, and pricing systems
-- Godot, GDScript, and Lua for game prototyping
-- Android development with Java or Kotlin
+## Open to
+Backend APIs, admin panels, internal tools — small, well-scoped systems where the details matter.
 
-📫 **How to reach me**
-- LinkedIn: [Ajaya Deep Shrestha](https://www.linkedin.com/in/ajaya-deep-shrestha-33b545348/)
-- Upwork: [Upwork Profile](https://www.upwork.com/freelancers/~01a5165b7746f46edf)
-- Email: [ajayadeepshrestha@gmail.com](mailto:ajayadeepshrestha@gmail.com)
-
-⚡ **Fun fact**
-I enjoy working on “boring” software. The kind that needs to be correct, stable,
-and easy to maintain long after it’s shipped.
+## Reach me
+- **Email:** ajayadeepshrestha@gmail.com
+- **LinkedIn:** [Ajaya Deep Shrestha](https://www.linkedin.com/in/ajaya-deep-shrestha-33b545348/)
+- **Upwork:** [Profile](https://www.upwork.com/freelancers/~01a5165b7746f46edf)
